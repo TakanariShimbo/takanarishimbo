@@ -1,6 +1,17 @@
-<!-- 1. Views Counter -->
+<!-- 1. Counters -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TakanariShimbo" />
+  <a href="https://github.com/TakanariShimbo">
+    <img height="20" src="https://komarev.com/ghpvc/?username=TakanariShimbo" />
+  </a>
+  <a href="https://github.com/TakanariShimbo">
+    <img height="20" src="https://img.shields.io/github/followers/TakanariShimbo?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/hmkc1220">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/hmkc1220/posts.svg" />
+  </a>
+  <a href="http://qiita.com/hmkc1220">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/hmkc1220/contributions.svg" />
+  </a>
 </div>
 
 <!-- 2. Skills -->
