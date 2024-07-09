@@ -47,15 +47,13 @@
 
 <!-- 3. Activities -->
 ## 🏃‍♀️ Activities
-<div align="left"> 
-  <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-  <!-- usernameを変更 -->
-  <!-- <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=TakanariShimbo&theme=onedark&layout=compact" /> -->
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakanariShimbo&theme=onedark&layout=compact" />
-</div>
-<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakanariShimbo&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakanariShimbo&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakanariShimbo&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TakanariShimbo&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakanariShimbo&theme=gruvbox&utcOffset=9)
 
 <!-- 4. Achievements -->
 ## 🏆 Achievements
 <!-- usernameを変更 -->
-[![Achievements](https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=gruvbox)
