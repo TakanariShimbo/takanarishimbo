@@ -13,23 +13,55 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/hmkc1220/contributions.svg" />
   </a>
 </div>
+</br>
 
 <!-- 2. Skills -->
 <h2 align="center">🌱 Skills</h2>
 <div align="center">
   <h3>Web Development</h3>
-  <img alt="web development skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=html,css,js,jquery,react,tailwind,vite,next" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=html,css,js,jquery,react,tailwind,vite,next" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=html,css,js,jquery,react,tailwind,vite,next" />
+    <img alt="web development skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=html,css,js,jquery,react,tailwind,vite,next" />
+  </picture>
+
   <h3>Backend Development</h3>
-  <img alt="backend development skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=nodejs,flask,django,fastapi" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=nodejs,flask,django,fastapi" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=nodejs,flask,django,fastapi" />
+    <img alt="backend development skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=nodejs,flask,django,fastapi" />
+  </picture>
+
   <h3>Data Science & AI</h3>
-  <img alt="data science and ai skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=python,opencv,sklearn,pytorch" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=python,opencv,sklearn,pytorch" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=python,opencv,sklearn,pytorch" />
+    <img alt="data science and ai skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=python,opencv,sklearn,pytorch" />
+  </picture>
+
   <h3>Databases</h3>
-  <img alt="database skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=postgres,redis" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=postgres,redis" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=postgres,redis" />
+    <img alt="database skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=postgres,redis" />
+  </picture>
+
   <h3>DevOps & Tools</h3>
-  <img alt="devops and tools skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=git,github,gitlab,docker,vscode" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=git,github,gitlab,docker,vscode" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=git,github,gitlab,docker,vscode" />
+    <img alt="devops and tools skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=git,github,gitlab,docker,vscode" />
+  </picture>
+
   <h3>Operating Systems</h3>
-  <img alt="operating systems skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=windows,ubuntu" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=windows,ubuntu" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=windows,ubuntu" />
+    <img alt="operating systems skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=windows,ubuntu" />
+  </picture>
 </div>
+
+</br>
 
 <!-- 3. Activities -->
 <h2 align="center">🏃‍♀️ Activities</h2>
@@ -60,6 +92,7 @@
     <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakanariShimbo&theme=vue&utcOffset=9" />
   </picture>
 </div>
+</br>
 
 <!-- 4. Achievements -->
 <h2 align="center">🏆 Achievements</h2>
@@ -70,6 +103,7 @@
     <img alt="Achievements Trophy" src="https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=flat&column=5&margin-w=15&margin-h=15" />
   </picture>
 </div>
+</br>
 
 <!-- 5. Contributions -->
 <h2 align="center">🤝 Contributions</h2>
@@ -81,3 +115,4 @@
   </picture>
   </br>
 </div>
+</br>
