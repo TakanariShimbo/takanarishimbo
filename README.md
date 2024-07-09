@@ -19,7 +19,7 @@
 <h2 align="center">🌐 My Page</h2>
 <div align="center">
   <a href="https://takanarishimbo.github.io/">
-    <img src="https://raw.githubusercontent.com/TakanariShimbo/takanarishimbo/main/my-page.png" />
+    <img width="600" src="https://raw.githubusercontent.com/TakanariShimbo/takanarishimbo/main/my-page.png" />
   </a>
 </div>
 </br>
