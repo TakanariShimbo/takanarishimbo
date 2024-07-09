@@ -19,7 +19,11 @@
 <h2 align="center">🌐 My Page</h2>
 <div align="center">
   <a href="https://takanarishimbo.github.io/">
-    <img width="600" src="https://raw.githubusercontent.com/TakanariShimbo/takanarishimbo/main/my-page.png" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TakanariShimbo/takanarishimbo/main/my-page-dark.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TakanariShimbo/takanarishimbo/main/my-page-light.png" />
+      <img width="600" alt="My Page" />
+    </picture>
   </a>
 </div>
 </br>
