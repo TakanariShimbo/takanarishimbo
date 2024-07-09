@@ -8,7 +8,7 @@
 ## 🌱 Skills
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=html,css,js,react,tailwind,next,python,opencv,sklearn,pytorch,flask,django,fastapi,cs,git,postgres,redis,github,gitlab,docker" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=html,css,js,jquery,react,tailwind,nodejs,vite,next,python,opencv,sklearn,pytorch,flask,django,fastapi,cs,postgres,redis,git,github,gitlab,docker,vscode,windows,ubuntu" />
 <br>
 
 <!-- 3. Activities -->
