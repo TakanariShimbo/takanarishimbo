@@ -111,7 +111,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TakanariShimbo/takanarishimbo/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/TakanariShimbo/takanarishimbo/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution-snake" src="github-snake.svg" />
+    <img alt="contribution-snake" src="contribution-snake.svg" />
   </picture>
   </br>
 </div>
