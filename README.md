@@ -46,3 +46,13 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=flat&column=5&margin-w=15&margin-h=15" />
 </div>
+
+<!-- 5. Contributions -->
+<h2 align="center">Contributions</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TakanariShimbo/takanarishimbo/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/TakanariShimbo/takanarishimbo/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution-snake" src="github-snake.svg" />
+  </picture></br>
+</div>
