@@ -21,5 +21,5 @@
 </div>
 
 <!-- 4. Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=TakanariShimbo)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=vue-dark&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
