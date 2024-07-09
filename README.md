@@ -19,52 +19,6 @@
 <h2 align="center">🌱 Skills</h2>
 <div align="center">
   <h3>Web Development</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=html,css,js,jquery,react,tailwind,vite,next" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=html,css,js,jquery,react,tailwind,vite,next" />
-    <img alt="web development skills" />
-  </picture>
-
-  <h3>Backend Development</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=nodejs,flask,django,fastapi" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=nodejs,flask,django,fastapi" />
-    <img alt="backend development skills" />
-  </picture>
-
-  <h3>Data Science & AI</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=python,opencv,sklearn,pytorch" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=python,opencv,sklearn,pytorch" />
-    <img alt="data science and ai skills" />
-  </picture>
-
-  <h3>Databases</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=postgres,redis" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=postgres,redis" />
-    <img alt="database skills" />
-  </picture>
-
-  <h3>DevOps & Tools</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=git,github,gitlab,docker,vscode" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=git,github,gitlab,docker,vscode" />
-    <img alt="devops and tools skills" />
-  </picture>
-
-  <h3>Operating Systems</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=windows,ubuntu" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=windows,ubuntu" />
-    <img alt="operating systems skills" />
-  </picture>
-</div>
-</br>
-
-<h2 align="center">🌱 Skills</h2>
-<div align="center">
-  <h3>Web Development</h3>
   <img alt="web development skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=html,css,js,jquery,react,tailwind,vite,next" />
   <h3>Backend Development</h3>
   <img alt="backend development skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=nodejs,flask,django,fastapi" />
