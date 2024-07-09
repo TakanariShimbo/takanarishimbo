@@ -16,9 +16,10 @@
 </br>
 
 <!-- 1. My Page -->
+<h2 align="center">🌐 My Page</h2>
 <div align="center">
   <a href="https://takanarishimbo.github.io/">
-    <img src="" />
+    <img src="https://raw.githubusercontent.com/TakanariShimbo/takanarishimbo/main/my-page.png" />
   </a>
 </div>
 </br>
