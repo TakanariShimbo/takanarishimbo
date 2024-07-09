@@ -1,4 +1,4 @@
-<!-- 1. Counters -->
+<!-- 0. Counters -->
 <div align="center">
   <a href="https://github.com/TakanariShimbo">
     <img height="20" src="https://komarev.com/ghpvc/?username=TakanariShimbo" />
@@ -11,6 +11,14 @@
   </a>
   <a href="http://qiita.com/hmkc1220">
     <img height="20" src="https://qiita-badge.apiapi.app/s/hmkc1220/contributions.svg" />
+  </a>
+</div>
+</br>
+
+<!-- 1. My Page -->
+<div align="center">
+  <a href="https://takanarishimbo.github.io/">
+    <img src="" />
   </a>
 </div>
 </br>
