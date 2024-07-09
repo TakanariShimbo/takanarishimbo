@@ -34,15 +34,15 @@
 <!-- 3. Activities -->
 <h2 align="center">🏃‍♀️ Activities</h2>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakanariShimbo&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakanariShimbo&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakanariShimbo&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TakanariShimbo&theme=gruvbox" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakanariShimbo&theme=gruvbox&utcOffset=9" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakanariShimbo&theme=vue" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakanariShimbo&theme=vue" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakanariShimbo&theme=vue" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TakanariShimbo&theme=vue" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakanariShimbo&theme=vue&utcOffset=9" />
 </div>
 
 <!-- 4. Achievements -->
 <h2 align="center">🏆 Achievements</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=gruvbox" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=flat" />
 </div>
