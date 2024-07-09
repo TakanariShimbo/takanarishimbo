@@ -100,7 +100,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=chalk&column=5&margin-w=15&margin-h=15" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=flat&column=5&margin-w=15&margin-h=15" />
-    <img alt="Achievements Trophy" src="https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=flat&column=5&margin-w=15&margin-h=15" />
+    <img alt="Achievements Trophy" src="achievements-trophy.svg" />
   </picture>
 </div>
 </br>
