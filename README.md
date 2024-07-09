@@ -60,7 +60,23 @@
     <img alt="operating systems skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=windows,ubuntu" />
   </picture>
 </div>
+</br>
 
+<h2 align="center">🌱 Skills</h2>
+<div align="center">
+  <h3>Web Development</h3>
+  <img alt="web development skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=html,css,js,jquery,react,tailwind,vite,next" />
+  <h3>Backend Development</h3>
+  <img alt="backend development skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=nodejs,flask,django,fastapi" />
+  <h3>Data Science & AI</h3>
+  <img alt="data science and ai skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=python,opencv,sklearn,pytorch" />
+  <h3>Databases</h3>
+  <img alt="database skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=postgres,redis" />
+  <h3>DevOps & Tools</h3>
+  <img alt="devops and tools skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=git,github,gitlab,docker,vscode" />
+  <h3>Operating Systems</h3>
+  <img alt="operating systems skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=windows,ubuntu" />
+</div>
 </br>
 
 <!-- 3. Activities -->
@@ -111,7 +127,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TakanariShimbo/takanarishimbo/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/TakanariShimbo/takanarishimbo/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution-snake" src="contribution-snake.svg" />
+    <img alt="contribution-snake"/>
   </picture>
   </br>
 </div>
