@@ -19,6 +19,7 @@
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=TakanariShimbo&theme=onedark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakanariShimbo&theme=onedark&layout=compact" />
 </div>
+<br>
 
 <!-- 4. Achievements -->
 ## 🏆 Achievements
