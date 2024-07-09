@@ -20,6 +20,8 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakanariShimbo&theme=onedark&layout=compact" />
 </div>
 
-<!-- 4. Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- 4. Achievements -->
+## 🏆 Achievements
+<!-- usernameを変更 -->
+[![Achievements](https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
