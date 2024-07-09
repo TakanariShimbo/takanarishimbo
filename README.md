@@ -26,3 +26,4 @@
 <!-- usernameを変更 -->
 [![Achievements](https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=onedark&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img alt="github-snake" src="github-snake.svg" />
