@@ -22,42 +22,42 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=html,css,js,jquery,react,tailwind,vite,next" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=html,css,js,jquery,react,tailwind,vite,next" />
-    <img alt="web development skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=html,css,js,jquery,react,tailwind,vite,next" />
+    <img alt="web development skills" />
   </picture>
 
   <h3>Backend Development</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=nodejs,flask,django,fastapi" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=nodejs,flask,django,fastapi" />
-    <img alt="backend development skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=nodejs,flask,django,fastapi" />
+    <img alt="backend development skills" />
   </picture>
 
   <h3>Data Science & AI</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=python,opencv,sklearn,pytorch" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=python,opencv,sklearn,pytorch" />
-    <img alt="data science and ai skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=python,opencv,sklearn,pytorch" />
+    <img alt="data science and ai skills" />
   </picture>
 
   <h3>Databases</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=postgres,redis" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=postgres,redis" />
-    <img alt="database skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=postgres,redis" />
+    <img alt="database skills" />
   </picture>
 
   <h3>DevOps & Tools</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=git,github,gitlab,docker,vscode" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=git,github,gitlab,docker,vscode" />
-    <img alt="devops and tools skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=git,github,gitlab,docker,vscode" />
+    <img alt="devops and tools skills" />
   </picture>
 
   <h3>Operating Systems</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=12&i=windows,ubuntu" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=12&i=windows,ubuntu" />
-    <img alt="operating systems skills" src="https://skillicons.dev/icons?theme=light&perline=12&i=windows,ubuntu" />
+    <img alt="operating systems skills" />
   </picture>
 </div>
 </br>
@@ -85,27 +85,27 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakanariShimbo&theme=zenburn" />
     <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakanariShimbo&theme=vue" />
-    <img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TakanariShimbo&theme=vue" />
+    <img alt="Profile Details" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakanariShimbo&theme=zenburn" />
     <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakanariShimbo&theme=vue" />
-    <img alt="Repos Per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TakanariShimbo&theme=vue" />
+    <img alt="Repos Per Language" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakanariShimbo&theme=zenburn" />
     <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakanariShimbo&theme=vue" />
-    <img alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TakanariShimbo&theme=vue" />
+    <img alt="Most Commit Language" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TakanariShimbo&theme=zenburn" />
     <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TakanariShimbo&theme=vue" />
-    <img alt="Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TakanariShimbo&theme=vue" />
+    <img alt="Stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakanariShimbo&theme=zenburn&utcOffset=9" />
     <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakanariShimbo&theme=vue&utcOffset=9" />
-    <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TakanariShimbo&theme=vue&utcOffset=9" />
+    <img alt="Productive Time" />
   </picture>
 </div>
 </br>
@@ -116,7 +116,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=chalk&column=5&margin-w=15&margin-h=15" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=flat&column=5&margin-w=15&margin-h=15" />
-    <img alt="Achievements Trophy" src="achievements-trophy.svg" />
+    <img alt="Achievements Trophy" />
   </picture>
 </div>
 </br>
