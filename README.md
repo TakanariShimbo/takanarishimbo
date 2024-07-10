@@ -32,7 +32,7 @@
 <h2 align="center">🌱 Skills</h2>
 <div align="center"> 
 
-  <h3>Programming Languages</h3>
+  <h3>Languages & Enviroments</h3>
   <table>
     <tr>
       <th>HTML</th>
@@ -40,6 +40,8 @@
       <th>JS</th>
       <th>Python</th>
       <th>C#</th>
+      <th>Node.js</th>
+      <th>Conda</th>
     </tr>
     <tr>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"></td>
@@ -47,6 +49,8 @@
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="55" height="55"></td>
     </tr>
   </table>
 
@@ -67,7 +71,6 @@
   <h3>Backend Development</h3>
   <table>
     <tr>
-      <th>Node.js</th>
       <th>Vite</th>
       <th>Next.js</th>
       <th>Flask</th>
@@ -76,7 +79,6 @@
       <th>Streamlit</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55"></td>
