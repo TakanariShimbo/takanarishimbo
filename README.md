@@ -41,14 +41,14 @@
       <th>C#</th>
     </tr>
     <tr>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/html5?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/css3?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/javascript?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/python?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/csharp?size=55&color=2ea043" width="55" height="55"></td>
     </tr>
   </table>
-
+  
   <h3>Frontend</h3>
   <table>
     <tr>
@@ -60,12 +60,12 @@
       <th>Streamlit</th>
     </tr>
     <tr>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/tailwindcss?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/jquery?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/react?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/vite?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/nextjs?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/streamlit?size=55&color=2ea043" width="55" height="55"></td>
     </tr>
   </table>
   
@@ -81,17 +81,16 @@
       <th>Redis</th>
     </tr>
     <tr>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="55" height="55"></td>
-  </tr>
+      <td align="center"><img src="https://deviconapi.vercel.app/flask?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/django?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/fastapi?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/sqlalchemy?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/sqlite?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/postgresql?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/redis?size=55&color=2ea043" width="55" height="55"></td>
     </tr>
   </table>
-
+  
   <h3>Data Science</h3>
   <table>
     <tr>
@@ -104,16 +103,16 @@
       <th>Plotly</th>
     </tr>
     <tr>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/numpy?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/pandas?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/scikitlearn?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/pytorch?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/opencv?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/matplotlib?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/plotly?size=55&color=2ea043" width="55" height="55"></td>
     </tr>
   </table>
-
+  
   <h3>Env & Tools</h3>
   <table>
     <tr>
@@ -126,13 +125,13 @@
       <th>VisualStudio</th>
     </tr>
     <tr>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/git?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/docker?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/nodejs?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/anaconda?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/jupyter?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/vscode?size=55&color=2ea043" width="55" height="55"></td>
+      <td align="center"><img src="https://deviconapi.vercel.app/visualstudio?size=55&color=2ea043" width="55" height="55"></td>
     </tr>
   </table>
 </div>
