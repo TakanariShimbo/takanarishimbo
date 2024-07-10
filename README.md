@@ -67,7 +67,7 @@
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="55" height="55"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"></td>
     </tr>
