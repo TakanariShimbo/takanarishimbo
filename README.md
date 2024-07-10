@@ -35,7 +35,7 @@
     <tr>
       <th>HTML</th>
       <th>CSS</th>
-      <th>JavaScript</th>
+      <th>JS</th>
       <th>Node.js</th>
       <th>jQuery</th>
       <th>React</th>
