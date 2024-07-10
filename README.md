@@ -52,7 +52,27 @@
   </table>
   
   <h3>Backend Development</h3>
-  <img alt="backend development skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=nodejs,flask,django,fastapi" />
+  <table>
+    <tr>
+      <th>Node.js</th>
+      <th>Vite</th>
+      <th>Next.js</th>
+      <th>Flask</th>
+      <th>Django</th>
+      <th>FastAPI</th>
+      <th>Streamlit</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"></td>
+    </tr>
+  </table>
+
   <h3>Data Science & AI</h3>
   <img alt="data science and ai skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=python,opencv,sklearn,pytorch" />
   <h3>Databases</h3>
