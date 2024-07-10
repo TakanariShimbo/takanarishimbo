@@ -1,4 +1,4 @@
-<!-- 0. Counters -->
+<!-- 1. Counters -->
 <div align="center">
   <a href="https://github.com/TakanariShimbo">
     <img height="20" src="https://komarev.com/ghpvc/?username=TakanariShimbo" />
@@ -12,18 +12,6 @@
   <a href="http://qiita.com/hmkc1220">
     <img height="20" src="https://qiita-badge.apiapi.app/s/hmkc1220/contributions.svg" />
   </a>
-</div>
-</br>
-
-<!-- 1. Contributions -->
-<h2 align="center">🤝 Contributions</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TakanariShimbo/takanarishimbo/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/TakanariShimbo/takanarishimbo/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution-snake"/>
-  </picture>
-  </br>
 </div>
 </br>
 
@@ -189,5 +177,17 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=flat&column=5&margin-w=15&margin-h=15" />
     <img alt="Achievements Trophy" />
   </picture>
+</div>
+</br>
+
+<!-- 6. Contributions -->
+<h2 align="center">🤝 Contributions</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TakanariShimbo/takanarishimbo/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/TakanariShimbo/takanarishimbo/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution-snake"/>
+  </picture>
+  </br>
 </div>
 </br>
