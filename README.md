@@ -31,21 +31,34 @@
 <!-- 2. Skills -->
 <h2 align="center">🌱 Skills</h2>
 <div align="center"> 
-  <h3>Frontend Development</h3>
+
+  <h3>Programming Languages</h3>
   <table>
     <tr>
       <th>HTML</th>
       <th>CSS</th>
-      <th>Tailwind</th>
       <th>JS</th>
-      <th>jQuery</th>
-      <th>React</th>
+      <th>Python</th>
+      <th>C#</th>
     </tr>
     <tr>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55"></td>
+    </tr>
+  </table>
+
+  <h3>Frontend Development</h3>
+  <table>
+    <tr>
+      <th>Tailwind</th>
+      <th>jQuery</th>
+      <th>React</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"></td>
     </tr>
