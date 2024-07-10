@@ -141,15 +141,6 @@
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"></td>
     </tr>
   </table>
-
-  <h3>Data Science & AI</h3>
-  <img alt="data science and ai skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=python,opencv,sklearn,pytorch" />
-  <h3>Databases</h3>
-  <img alt="database skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=postgres,redis" />
-  <h3>DevOps & Tools</h3>
-  <img alt="devops and tools skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=git,github,gitlab,docker,vscode" />
-  <h3>Operating Systems</h3>
-  <img alt="operating systems skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=windows,ubuntu" />
 </div>
 </br>
 
