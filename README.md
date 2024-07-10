@@ -30,7 +30,13 @@
 
 <!-- 2. Skills -->
 <h2 align="center">🌱 Skills</h2>
-<div align="center"> 
+<div align="center">
+  <style>
+    td {
+      text-align: center;  /* Centers the content of table cells */
+    }
+  </style>
+  
   <h3>Tools</h3>
   <table>
     <tr>
