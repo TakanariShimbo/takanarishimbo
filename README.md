@@ -100,8 +100,8 @@
       <th>SkLearn</th>
       <th>PyTorch</th>
       <th>OpenCV</th>
-      <th>Plotly</th>
       <th>Matplotlib</th>
+      <th>Plotly</th>
     </tr>
     <tr>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"></td>
@@ -109,8 +109,8 @@
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="55" height="55"></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" width="55" height="55"></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" width="55" height="55"></td>
     </tr>
   </table>
 
