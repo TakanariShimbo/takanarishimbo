@@ -30,13 +30,7 @@
 
 <!-- 2. Skills -->
 <h2 align="center">🌱 Skills</h2>
-<div align="center">
-  <style>
-    td {
-      text-align: center;  /* Centers the content of table cells */
-    }
-  </style>
-  
+<div align="center">  
   <h3>Tools</h3>
   <table>
     <tr>
@@ -52,16 +46,16 @@
       <th>VS</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="55" height="55"></td>
     </tr>
   </table>
   
@@ -75,11 +69,11 @@
       <th>C#</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55"></td>
     </tr>
   </table>
 
@@ -93,11 +87,11 @@
       <th>Next.js</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55" height="55"></td>
     </tr>
   </table>
   
@@ -114,14 +108,14 @@
       <th>Redis</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="55" height="55"></td>
   </tr>
     </tr>
   </table>
@@ -138,13 +132,13 @@
       <th>Matplot</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"></td>
     </tr>
   </table>
 </div>
