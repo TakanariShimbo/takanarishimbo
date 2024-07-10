@@ -43,6 +43,7 @@
       <th>Conda</th>
       <th>Jupyter</th>
       <th>VS Code</th>
+      <th>VS</th>
     </tr>
     <tr>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"></td>
@@ -54,6 +55,7 @@
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="55" height="55"></td>
     </tr>
   </table>
   
