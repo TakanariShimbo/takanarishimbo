@@ -36,16 +36,18 @@
     <tr>
       <th>Git</th>
       <th>Docker</th>
-      <th>VS Code</th>
       <th>Node.js</th>
       <th>Conda</th>
+      <th>Jupyter</th>
+      <th>VS Code</th>
     </tr>
     <tr>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55"></td>
     </tr>
   </table>
   
@@ -106,7 +108,6 @@
   <h3>Data Science</h3>
   <table>
     <tr>
-      <th>Jupyter</th>
       <th>NumPy</th>
       <th>Pandas</th>
       <th>SkLearn</th>
@@ -116,7 +117,6 @@
       <th>Matplot</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"></td>
