@@ -39,7 +39,6 @@
       <th>VS Code</th>
       <th>Node.js</th>
       <th>Conda</th>
-      <th>Jupyter</th>
     </tr>
     <tr>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"></td>
@@ -47,7 +46,6 @@
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="55" height="55"></td>
     </tr>
   </table>
   
@@ -92,6 +90,7 @@
       <th>Django</th>
       <th>FastAPI</th>
       <th>Streamlit</th>
+      <th>SQLA</th>
     </tr>
     <tr>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="55" height="55"></td>
@@ -100,12 +99,14 @@
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="55" height="55"></td>
     </tr>
   </table>
 
   <h3>Data Science</h3>
   <table>
     <tr>
+      <th>Jupyter</th>
       <th>NumPy</th>
       <th>Pandas</th>
       <th>SkLearn</th>
@@ -113,9 +114,9 @@
       <th>OpenCV</th>
       <th>Plotly</th>
       <th>Matplot</th>
-      <th>SQLA</th>
     </tr>
     <tr>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"></td>
@@ -123,7 +124,6 @@
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="55" height="55"></td>
     </tr>
   </table>
 
