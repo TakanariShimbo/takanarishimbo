@@ -15,7 +15,19 @@
 </div>
 </br>
 
-<!-- 1. My Page -->
+<!-- 1. Contributions -->
+<h2 align="center">🤝 Contributions</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TakanariShimbo/takanarishimbo/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/TakanariShimbo/takanarishimbo/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution-snake"/>
+  </picture>
+  </br>
+</div>
+</br>
+
+<!-- 2. My Page -->
 <h2 align="center">🌐 Pages</h2>
 <div align="center">
   <a href="https://takanarishimbo.github.io/">
@@ -28,7 +40,7 @@
 </div>
 </br>
 
-<!-- 2. Skills -->
+<!-- 3. Skills -->
 <h2 align="center">🌱 Skills</h2>
 <div align="center">   
   <h3>Languages</h3>
@@ -138,7 +150,7 @@
 </div>
 </br>
 
-<!-- 3. Activities -->
+<!-- 4. Activities -->
 <h2 align="center">🏃‍♀️ Activities</h2>
 <div align="center">
   <picture>
@@ -169,7 +181,7 @@
 </div>
 </br>
 
-<!-- 4. Achievements -->
+<!-- 5. Achievements -->
 <h2 align="center">🏆 Achievements</h2>
 <div align="center">
   <picture>
@@ -177,17 +189,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=TakanariShimbo&theme=flat&column=5&margin-w=15&margin-h=15" />
     <img alt="Achievements Trophy" />
   </picture>
-</div>
-</br>
-
-<!-- 5. Contributions -->
-<h2 align="center">🤝 Contributions</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TakanariShimbo/takanarishimbo/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/TakanariShimbo/takanarishimbo/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution-snake"/>
-  </picture>
-  </br>
 </div>
 </br>
