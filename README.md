@@ -117,8 +117,6 @@
   <h3>Env & Tools</h3>
   <table>
     <tr>
-      <th>Windows</th>
-      <th>Ubuntu</th>
       <th>Git</th>
       <th>Docker</th>
       <th>Node.js</th>
@@ -128,8 +126,6 @@
       <th>VisualStudio</th>
     </tr>
     <tr>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" width="55" height="55"></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55"></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55" height="55"></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
