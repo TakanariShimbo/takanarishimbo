@@ -42,8 +42,8 @@
       <th>Node.js</th>
       <th>Conda</th>
       <th>Jupyter</th>
-      <th>VS Code</th>
-      <th>VS</th>
+      <th>VSCode</th>
+      <th>VisualStudio</th>
     </tr>
     <tr>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="55" height="55"></td>
@@ -80,7 +80,7 @@
   <h3>Frontend</h3>
   <table>
     <tr>
-      <th>Tailwind</th>
+      <th>TailwindCSS</th>
       <th>jQuery</th>
       <th>React</th>
       <th>Vite</th>
@@ -102,7 +102,7 @@
       <th>Django</th>
       <th>FastAPI</th>
       <th>Streamlit</th>
-      <th>SQLA</th>
+      <th>SQLAlchemy</th>
       <th>SQLite</th>
       <th>Postgres</th>
       <th>Redis</th>
@@ -129,7 +129,7 @@
       <th>PyTorch</th>
       <th>OpenCV</th>
       <th>Plotly</th>
-      <th>Matplot</th>
+      <th>Matplotlib</th>
     </tr>
     <tr>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"></td>
