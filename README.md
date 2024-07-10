@@ -32,7 +32,10 @@
 <h2 align="center">🌱 Skills</h2>
 <div align="center">
   <h3>Web Development</h3>
-  <img alt="web development skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=html,css,js,jquery,react,tailwind,vite,next" />
+  | HTML | CSS | JavaScript | Node.js | jQuery | React | Tailwind CSS | Vite | Next.js |
+|------|-----|------------|---------|--------|-------|--------------|------|---------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original-wordmark.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="55" height="55"/> |
+  
   <h3>Backend Development</h3>
   <img alt="backend development skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=nodejs,flask,django,fastapi" />
   <h3>Data Science & AI</h3>
