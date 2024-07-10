@@ -31,8 +31,19 @@
 <!-- 2. Skills -->
 <h2 align="center">🌱 Skills</h2>
 <div align="center"> 
-
-  <h3>Languages & Enviroments</h3>
+  <h3>Enviroments</h3>
+  <table>
+    <tr>
+      <th>Node.js</th>
+      <th>Conda</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="55" height="55"></td>
+    </tr>
+  </table>
+  
+  <h3>Languages</h3>
   <table>
     <tr>
       <th>HTML</th>
@@ -40,8 +51,6 @@
       <th>JS</th>
       <th>Python</th>
       <th>C#</th>
-      <th>Node.js</th>
-      <th>Conda</th>
     </tr>
     <tr>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"></td>
@@ -49,12 +58,10 @@
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="55" height="55"></td>
     </tr>
   </table>
 
-  <h3>Frontend Development</h3>
+  <h3>Frontend</h3>
   <table>
     <tr>
       <th>Tailwind</th>
@@ -68,7 +75,7 @@
     </tr>
   </table>
   
-  <h3>Backend Development</h3>
+  <h3>Backend</h3>
   <table>
     <tr>
       <th>Vite</th>
@@ -85,6 +92,30 @@
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"></td>
+    </tr>
+  </table>
+
+  <h3>Data Science</h3>
+  <table>
+    <tr>
+      <th>PyTorch</th>
+      <th>NumPy</th>
+      <th>Pandas</th>
+      <th>Scikit-Learn</th>
+      <th>OpenCV</th>
+      <th>Plotly</th>
+      <th>Matplotlib</th>
+      <th>SQLAlchemy</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="55" height="55"></td>
     </tr>
   </table>
 
