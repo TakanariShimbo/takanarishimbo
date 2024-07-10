@@ -16,13 +16,13 @@
 </br>
 
 <!-- 1. My Page -->
-<h2 align="center">🌐 My Page</h2>
+<h2 align="center">🌐 Page</h2>
 <div align="center">
   <a href="https://takanarishimbo.github.io/">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TakanariShimbo/takanarishimbo/main/my-page-dark.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TakanariShimbo/takanarishimbo/main/my-page-light.png" />
-      <img width="600" alt="My Page" />
+      <img width="600" alt="Page" />
     </picture>
   </a>
 </div>
