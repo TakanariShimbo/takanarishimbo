@@ -30,34 +30,32 @@
 
 <!-- 2. Skills -->
 <h2 align="center">🌱 Skills</h2>
-
-<table>
-  <tr>
-    <th>HTML</th>
-    <th>CSS</th>
-    <th>JavaScript</th>
-    <th>Node.js</th>
-    <th>jQuery</th>
-    <th>React</th>
-    <th>Tailwind</th>
-    <th>Vite</th>
-    <th>Next.js</th>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="55" height="55"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="55" height="55"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" width="55" height="55"></td>
-    <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55" height="55"></td>
-  </tr>
-</table>
-
-
 <div align="center"> 
+  <table>
+    <tr>
+      <th>HTML</th>
+      <th>CSS</th>
+      <th>JavaScript</th>
+      <th>Node.js</th>
+      <th>jQuery</th>
+      <th>React</th>
+      <th>Tailwind</th>
+      <th>Vite</th>
+      <th>Next.js</th>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55" height="55"></td>
+    </tr>
+  </table>
+  
   <h3>Backend Development</h3>
   <img alt="backend development skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=nodejs,flask,django,fastapi" />
   <h3>Data Science & AI</h3>
