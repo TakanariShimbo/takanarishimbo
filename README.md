@@ -46,7 +46,7 @@
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="55" height="55"></td>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/conda/conda-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="55" height="55"></td>
     </tr>
   </table>
