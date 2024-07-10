@@ -57,6 +57,7 @@
       <th>React</th>
       <th>Vite</th>
       <th>Next.js</th>
+      <th>Streamlit</th>
     </tr>
     <tr>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"></td>
@@ -64,6 +65,7 @@
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="55" height="55"></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" width="55" height="55"></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="55" height="55"></td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"></td>
     </tr>
   </table>
   
@@ -73,7 +75,6 @@
       <th>Flask</th>
       <th>Django</th>
       <th>FastAPI</th>
-      <th>Streamlit</th>
       <th>SQLAlchemy</th>
       <th>SQLite</th>
       <th>Postgres</th>
@@ -83,7 +84,6 @@
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55"></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="55" height="55"></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="55" height="55"></td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" width="55" height="55"></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" width="55" height="55"></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="55" height="55"></td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="55" height="55"></td>
