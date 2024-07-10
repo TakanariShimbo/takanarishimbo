@@ -98,20 +98,20 @@
   <h3>Data Science</h3>
   <table>
     <tr>
-      <th>PyTorch</th>
       <th>NumPy</th>
       <th>Pandas</th>
-      <th>Scikit-Learn</th>
+      <th>SkLearn</th>
+      <th>PyTorch</th>
       <th>OpenCV</th>
       <th>Plotly</th>
       <th>Matplotlib</th>
-      <th>SQLAlchemy</th>
+      <th>SQLA</th>
     </tr>
     <tr>
-      <td><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55"></td>
+      <td><img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original.svg" width="55" height="55"></td>
       <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"></td>
