@@ -96,7 +96,7 @@
       <th>Streamlit</th>
       <th>SQLA</th>
       <th>SQLite</th>
-      <th>Postgre</th>
+      <th>Postgres</th>
       <th>Redis</th>
     </tr>
     <tr>
