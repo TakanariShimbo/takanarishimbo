@@ -22,7 +22,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TakanariShimbo/takanarishimbo/main/my-page-dark.png" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TakanariShimbo/takanarishimbo/main/my-page-light.png" />
-      <img width="600" alt="Page" />
+      <img width="700" alt="Page" />
     </picture>
   </a>
 </div>
