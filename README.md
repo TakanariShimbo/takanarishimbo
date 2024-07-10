@@ -16,7 +16,7 @@
 </br>
 
 <!-- 1. My Page -->
-<h2 align="center">🌐 Page</h2>
+<h2 align="center">🌐 Pages</h2>
 <div align="center">
   <a href="https://takanarishimbo.github.io/">
     <picture>
