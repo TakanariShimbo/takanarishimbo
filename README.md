@@ -104,7 +104,7 @@
       <th>PyTorch</th>
       <th>OpenCV</th>
       <th>Plotly</th>
-      <th>Matplotlib</th>
+      <th>Matplot</th>
       <th>SQLA</th>
     </tr>
     <tr>
