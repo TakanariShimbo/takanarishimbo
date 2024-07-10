@@ -31,6 +31,7 @@
 <!-- 2. Skills -->
 <h2 align="center">🌱 Skills</h2>
 <div align="center"> 
+  <h3>Frontend Development</h3>
   <table>
     <tr>
       <th>HTML</th>
